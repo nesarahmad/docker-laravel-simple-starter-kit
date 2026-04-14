@@ -18,7 +18,7 @@ Just clone and run — Laravel installs automatically with MySQL, Nginx, ready o
 
 On first run:
 
-* Laravel is installed (if not present)
+* Laravel is installed. (composer create-project laravel/laravel:^11.0 temp for Laraevel 11)
 * `.env` is configured using `.env.docker`
 * Dependencies are installed
 * Application key is generated
