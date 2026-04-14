@@ -50,6 +50,17 @@ On first run:
 │   └── default.conf
 └── ...
 ```
+## 🛢️ Database Details
+
+| Key      | Value      |
+| -------- | ---------- |
+| Host     | mysql      |
+| Port     | 3306       |
+| DB       | laravel_db |
+| User     | user       |
+| Password | user123    |
+
+---
 
 ```bash
 docker compose up -d --build
